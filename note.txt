@@ -1,3 +1,4 @@
 - {DONE} setting up react app 
 - {DONE} creating Navbar component
 - {DONE} creating Header and SubHeader components
+- {DONE} creating AboutUs component
