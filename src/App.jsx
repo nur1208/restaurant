@@ -2,7 +2,9 @@ import "./App.css";
 import {
   AboutUs,
   Chef,
+  Gallery,
   Intro,
+  Laurels,
   Navbar,
   SpecialMenu,
 } from "./components";
@@ -17,6 +19,8 @@ function App() {
       <SpecialMenu />
       <Chef />
       <Intro />
+      <Laurels />
+      <Gallery />
     </div>
   );
 }

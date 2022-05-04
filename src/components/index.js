@@ -5,3 +5,5 @@ export { SpecialMenu } from "./SpecialMenu/SpecialMenu";
 export { MenuItem } from "./MenuItem/MenuItem";
 export { Chef } from "./Chef/Chef";
 export { Intro } from "./Intro/Intro";
+export { Laurels } from "./Laurels/Laurels";
+export { Gallery } from "./Gallery/Gallery";
