@@ -3,3 +3,4 @@
 - {DONE} creating Header and SubHeader components
 - {DONE} creating AboutUs component
 - {DONE} creating SpecialMenu and MenuItem component
+- {DONE} creating Intro and Chef components
