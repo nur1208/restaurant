@@ -7,3 +7,7 @@ export { Chef } from "./Chef/Chef";
 export { Intro } from "./Intro/Intro";
 export { Laurels } from "./Laurels/Laurels";
 export { Gallery } from "./Gallery/Gallery";
+export { FindUs } from "./FindUs/FindUs";
+export { Newsletter } from "./Newsletter/Newsletter";
+export { FooterOverlay } from "./FooterOverlay/FooterOverlay";
+export { Footer } from "./Footer/Footer";

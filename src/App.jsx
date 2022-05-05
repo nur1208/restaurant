@@ -7,6 +7,8 @@ import {
   Laurels,
   Navbar,
   SpecialMenu,
+  FindUs,
+  Footer,
 } from "./components";
 import { Header } from "./container";
 
@@ -21,6 +23,8 @@ function App() {
       <Intro />
       <Laurels />
       <Gallery />
+      <FindUs />
+      <Footer />
     </div>
   );
 }

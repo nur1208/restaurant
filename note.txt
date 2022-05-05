@@ -5,3 +5,4 @@
 - {DONE} creating SpecialMenu and MenuItem component
 - {DONE} creating Intro and Chef components
 - {DONE} creating Laurels and Gallery components
+- {DONE} creating findus and footer components
