@@ -1,4 +1,4 @@
-# Restaurant Landing Page
+# Restaurant Landing Page with React
 ### [Live Site](https://restaurant-nu-two.vercel.app/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
